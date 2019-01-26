@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yaroslav/ITMO/Cpp/Third term/stdFunction/fun.h
+memory
+-
+cstring
+-
+
+/Users/yaroslav/ITMO/Cpp/Third term/stdFunction/main.cpp
+iostream
+-
+cassert
+-
+vector
+-
+fun.h
+/Users/yaroslav/ITMO/Cpp/Third term/stdFunction/fun.h
+functional
+-
+

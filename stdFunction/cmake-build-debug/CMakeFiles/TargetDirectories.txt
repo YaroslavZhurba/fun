@@ -1,0 +1,3 @@
+/Users/yaroslav/ITMO/Cpp/Third term/stdFunction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yaroslav/ITMO/Cpp/Third term/stdFunction/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yaroslav/ITMO/Cpp/Third term/stdFunction/cmake-build-debug/CMakeFiles/stdFunction.dir
